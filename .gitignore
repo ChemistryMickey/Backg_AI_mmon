@@ -1,2 +1,4 @@
-tutorials/hybridCode/libArrSum.so
-tutorials/hybridCode/libcmult.so
+tutorials/hybridCode/*.so
+main.log
+subfunctions/misc/__pycache__/*.pyc
+subfunctions/__pycache__/*.pyc
