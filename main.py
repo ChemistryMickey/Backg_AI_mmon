@@ -25,8 +25,11 @@ for reqPath in pathList:
 # Setup logging
 from MDCG_log import investigate, db_log
 
+# Game import
+from backgammon import backgammon
+
 def main():
-    db_log( 'Test log' );
+    backgammon();
 
 
 if __name__ == '__main__': main();

@@ -1,4 +1,6 @@
 tutorials/hybridCode/*.so
-main.log
-subfunctions/misc/__pycache__/*.pyc
-subfunctions/__pycache__/*.pyc
+*.log
+subfunctions/misc/__pycache__/
+subfunctions/__pycache__/
+subfunctions/backgammon/__pycache__/
+subfunctions/backgammon/*.log
